@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">2tv6NO1GdM-Q-0YPcBxkq_fdACFFBJxPxXrc7</string>
     <string name="app_name">blzcodepush</string>
 </resources>
