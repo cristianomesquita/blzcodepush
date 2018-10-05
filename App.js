@@ -12,7 +12,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Some text to update</Text>
+        <Text style={styles.text}>Some text to update (Codepush bombando)</Text>
         <TouchableOpacity style={styles.btn} onPress={this.onButtonPress}>
           <Text>Check for updates</Text>
         </TouchableOpacity>
